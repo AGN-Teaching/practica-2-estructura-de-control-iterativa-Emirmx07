@@ -56,8 +56,7 @@ Opción de cifrado o descifrado.
 
 Para terminar lo que hace el programa, aplica el desplazamiento adecuado a cada carácter del mensaje, transformándolo en su versión cifrada o descifrada. Finalmente, se imprime el mensaje resultante.
 
-## Comentarios sobre la Implementación
-
+## Comentarios 
 Que  hayamos aprendido el uso de listas facilitó el poder manejar los caracteres en el proceso que hacia el codigo del cifrado y descifrado. Aparte que, las estructuras de control selectivas permitieron validar correctamente las entradas del usuario y aplicar las transformaciones necesarias en cada caso.
 
 En conclusión, la práctica ayudo a reforzar el uso de estructuras selectivas en Python y su aplicación en un problema de seguridad de información como el cifrado de mensajes, ademas que aplicamos nuevos temas como "Estructura de control iterativa con control previo" y "Estructura de control iterativa con un número determinado de iteraciones" estos temas ayudan a mejorar en las practicas futuras y en esta ya que entre mas temas aprendamos mejor sera nuestra compresion hacia problemas o practicas nuevas.
